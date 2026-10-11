@@ -43,7 +43,7 @@ A interface conta com micro-interações refinadas, visual estilo *Glassmorphism
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/ghtechbr/agendamento-online.git](https://github.com/ghtechbr/agendamento-online.git)
+git clone [https://github.com/ghtechbr/agendamento-medico.git](https://github.com/ghtechbr/agendamento-medico.git)
 
 # 2. Acesse a pasta do projeto
 cd "Atendimento Online"
