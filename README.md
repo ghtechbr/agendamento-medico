@@ -46,7 +46,7 @@ A interface conta com micro-interações refinadas, visual estilo *Glassmorphism
 git clone [https://github.com/ghtechbr/agendamento-medico.git](https://github.com/ghtechbr/agendamento-medico.git)
 
 # 2. Acesse a pasta do projeto
-cd "Atendimento Online"
+cd agendamento-medico
 
 # 3. Instale as dependências
 npm install
